@@ -3,6 +3,7 @@
 """
 make the file executable if use the python3 path in your PC. to find the path run 'which python3' on console. To make the file executable run 'chmod a+x filename.py. Triple quotes also indicate comments 
 """
+### This functions were created during the Coursera Genomic Data Science course "Python for Genomic Data Science"
 
 import sys
 sys.path.append('/Users/rblopes/python_genomics')
